@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Hello there! Welcome to my repository where I'll be following a fantastic tutorial from "Real Python" to expand my skillset in Flask, REST API development, and JavaScript. In this tutorial, I'll be building a Flask REST API, enhancing it with several endpoints, and connecting it to a database.
+Hello there! Welcome to my repository where I'll be following a fantastic [tutorial](https://realpython.com/flask-javascript-frontend-for-rest-api/#project-overview) from Real Python to expand my skillset in Flask, REST API development, and JavaScript. In this tutorial, I'll be building a Flask REST API, enhancing it with several endpoints, and connecting it to a database.
 
 The tutorial consists of three parts:
 
