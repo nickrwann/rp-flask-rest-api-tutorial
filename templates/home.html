@@ -8,10 +8,15 @@
 </head>
 <body>
     <h1>
-        Hello, World!
+        Hello, People!
     </h1>
     <p>
-        This is part one of the "Real Python" tutorial covering Python REST APIs with Flask and Connexion.
+        This is part 2 of the "Real Python" tutorial covering Python REST APIs with Flask and Connexion.
     </p>
+    <ul>
+        {% for person in people %}
+        <li>{{ person.fname }} {{ person.lname }}</li>
+        {% endfor %}
+    </ul>
 </body>
 </html>
