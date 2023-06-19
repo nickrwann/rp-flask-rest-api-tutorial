@@ -13,10 +13,16 @@
     <p>
         This is part 2 of the "Real Python" tutorial covering Python REST APIs with Flask and Connexion.
     </p>
+    {% for person in people %}
+    <h2>{{ person.fname }} {{ person.lname }}</h2>
     <ul>
-        {% for person in people %}
-        <li>{{ person.fname }} {{ person.lname }}</li>
+        {% for note in person.notes %}
+        <li>
+            {{ note.content }}
+            ({{ note.id }})
+        </li>
         {% endfor %}
     </ul>
+    {% endfor %}
 </body>
 </html>
