@@ -10,15 +10,15 @@ The tutorial consists of three parts:
 - Part 2: Connecting the REST API to a Database
 - Part 3: Adding Relationships to the REST API and Database
 
-## Part 1: Building the REST API [link](https://realpython.com/flask-connexion-rest-api/)
+## [Part 1: Building the REST API](https://realpython.com/flask-connexion-rest-api/)
 
 In the first part of the tutorial, I'll focus on building a robust REST API. I'll start by setting up the Flask project and ensuring that the API connects to the database. This part will give me a good understanding of the app's back-end structure and functionality.
 
-## Part 2: Connecting to a Database [link](https://realpython.com/flask-connexion-rest-api-part-2/)
+## [Part 2: Connecting to a Database](https://realpython.com/flask-connexion-rest-api-part-2/)
 
 Once I have my REST API up and running, I'll move on to the second part of the tutorial. Here, I'll connect my API to a database, replacing the in-memory storage with a proper data storage solution. This will provide a more reliable and scalable approach to data management.
 
-## Part 3: Adding Relationships and Enhancements [link](https://realpython.com/flask-connexion-rest-api-part-3/)
+## [Part 3: Adding Relationships and Enhancements](https://realpython.com/flask-connexion-rest-api-part-3/)
 
 In the final part of the tutorial, I'll take my REST API to the next level. I'll introduce relationships between different entities in my API and make additional enhancements to improve its functionality and performance.
 
